@@ -29,7 +29,7 @@
 
 - Unity 게임 엔진
 - ChatGPT, Leonardo AI, Blockade Laps, Dall-E, Rodin AI
-	시 제작을 위해 ChatGPT, 시화 및 그림 제작을 위해 Leonardo AI를 사용했으며, 공간 제작에는 Blockade Laps를 사용했다. 또 3D 캐릭터 제작을 위해서는 DALL-E와 Rodin AI를 사용했습니다.
+시 제작을 위해 ChatGPT, 시화 및 그림 제작을 위해 Leonardo AI를 사용했으며, 공간 제작에는 Blockade Laps를 사용했다. 또 3D 캐릭터 제작을 위해서는 DALL-E와 Rodin AI를 사용했습니다.
 
 
 ## 진행된 전시
